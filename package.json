@@ -1,0 +1,22 @@
+{
+  "name": "nodejs-static-server",
+  "version": "1.0.0",
+  "description": "A sample static site being hosted by Node.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danielhgasparin/nodejs-static-server.git"
+  },
+  "author": "Daniel Henrique Gasparin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/danielhgasparin/nodejs-static-server/issues"
+  },
+  "homepage": "https://github.com/danielhgasparin/nodejs-static-server#readme",
+  "dependencies": {
+    "node-static": "^0.7.10"
+  }
+}
